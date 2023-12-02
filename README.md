@@ -1,7 +1,7 @@
 - 👋 Hola, soy Maria Luiza -- @Ribeiroluiza
-- 👀 Estoy interesado en el área de datos, diseño y gestión.
+- 👀 Estoy interesado en el área de QA, diseño y dados.
 - 🌱 Estoy estudiando y aprendiendo desarrollo, Con el objetivo de trabajar en el área de pruebas.
-- 💞️ Busco colaborar en las áreas de gestión de proyectos, diseño y pruebas.
+- 💞️ Busco colaborar en las áreas de Tester, gestión de proyectos, diseño y pruebas.
 - 📫 E-mail: @luhsilvaa520480@gmail.com | https://www.linkedin.com/in/maria-luiza-ribeiro
 
 <!---
